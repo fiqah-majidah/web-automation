@@ -1,0 +1,15 @@
+{
+  "name": "web-automation",
+  "version": "1.0.0",
+  "description": "Web Automation using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafiqah Majidah",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^13.6.4"
+  }
+}
